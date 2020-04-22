@@ -1,2 +1,4 @@
 
 .idea/
+opencv/example/ios/opencv2.framework/*
+opencv/example/ios/opencv2.framework/
